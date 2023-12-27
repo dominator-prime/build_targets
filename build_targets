@@ -6,6 +6,7 @@ ginkgo userdebug yes yes
 channel userdebug yes yes
 guacamole userdebug yes yes
 hotdogg userdebug yes yes
+lynx userdebug yes yes
 lemonade userdebug yes yes
 lemonadep userdebug yes yes
 mars userdebug yes yes
